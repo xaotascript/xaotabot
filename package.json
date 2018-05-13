@@ -1,0 +1,15 @@
+{
+  "name": "xaotabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Xaota",
+  "license": "ISC",
+  "dependencies": {
+    "seedrandom": "^2.4.3",
+    "telegraf": "^3.21.1"
+  }
+}
